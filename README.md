@@ -6,3 +6,5 @@ CS student.
 *   🌱 **Currently Learning:** HTML/CSS, Frontend Development & TypeScript
 
 📫 **Contact:** moh.vi85@gmail.com
+
+![Inspiring](kaftar.png)
