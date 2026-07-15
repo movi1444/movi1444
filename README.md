@@ -5,6 +5,8 @@ CS student.
 *   💻 **Tech Stack:** C/C++, Java, VHDL
 *   🌱 **Currently Learning:** HTML/CSS, Frontend Development & TypeScript
 
-📫 **Contact:** moh.vi85@gmail.com
+Inspiring shets:
 
 ![Inspiring](Kaftar.jpg)
+
+📫 **Contact:** moh.vi85@gmail.com
