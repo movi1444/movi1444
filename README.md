@@ -7,4 +7,4 @@ CS student.
 
 📫 **Contact:** moh.vi85@gmail.com
 
-![Inspiring](kaftar.png)
+![Inspiring](kaftar.jpg)
