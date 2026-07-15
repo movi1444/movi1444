@@ -1,4 +1,4 @@
-### Hey, I'm MAMAD(popopo) 
+### Hey, I'm Mamad(popopo) 
 
 CS student. 
 
