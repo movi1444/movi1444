@@ -2,9 +2,6 @@
 
 CS student. 
 
-*   💻 **Tech Stack:** C/C++, Java, VHDL
-*   🌱 **Currently Learning:** HTML/CSS, Frontend Development & TypeScript
-
 Inspiring shets:
 
 ![Inspiring](Kaftar.jpg)
